@@ -18,3 +18,4 @@ README
 t/00-load.t
 t/01-basic.t
 t/02-params.t
+t/03-defaults.t
